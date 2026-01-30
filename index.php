@@ -10,4 +10,4 @@
 ?>
 Something is wrong with the XAMPP installation :-(
 
-// this file is copied from xampp>>htdocs>>index.php
+//this file is copied from xampp>>htdocs>>index.php
