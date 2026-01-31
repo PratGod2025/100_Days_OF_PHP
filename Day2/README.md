@@ -3,7 +3,7 @@
 Today was nothing but the intoduction and installation of PHP
 Some key points which I learned are:
 
-1. PHP tag? --> <?php ?>
+<!-- 1. PHP tag? <?php ?> -->
 2. echo --> used to produce output
 3. What I did to run the code --> (on index.php of this day)
                                     -> made a folder named tuts inside htdocs
